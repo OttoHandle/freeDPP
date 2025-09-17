@@ -1,5 +1,13 @@
 The project aims to support anyone implementing the mandatory Digital Product Service according European Sustainability for Products Regulation 1781/2024
-Implementing shall be done according forthcoming CEN/CENELEC Standards EN 18216, EN 18219, EN 18221, EN 18221, EN 18222, EN 18223, EN 18239, EN 18246
+Implementing shall be done according forthcoming CEN/CENELEC Standards 
+
+     EN 18219 DPP - Unique identifiers 
+     EN 18220 DPP - Data carriers 
+     EN 18239 DPP - access rights management, information system security, and business confidentiality 
+     EN 18223 DPP - System interoperability EN 18216 DPP - Data exchange protocols 
+     EN 18221 DPP - data storage, archiving, and data persistence 
+     EN 18246 DPP – Data authentication, reliability and integrity   
+     EN 18222 DPP - Application Programming Interfaces (APIs) for the product passport lifecycle management and searchability 
 
 Note:
 -----
