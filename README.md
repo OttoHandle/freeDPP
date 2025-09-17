@@ -1,4 +1,4 @@
-The project aims to support anyone implementing the mandatory Digital Product Service according European Sustainability for Products Regulation 1781/2024
+The project aims to support anyone implementing the mandatory Digital Product Passport Service according European Sustainability for Products Regulation 1781/2024
 Implementing shall be done according forthcoming CEN/CENELEC Standards 
 
      EN 18219 DPP - Unique identifiers 
