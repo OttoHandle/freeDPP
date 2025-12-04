@@ -21,13 +21,17 @@ Foodstuffs, animal feed, medicinal products, veterinary medicinal products, live
 functionalities:
 -----
 dpp data maintenance:
+-----
 A web-based administration interface enables the import, recording and maintenance of product-specific DPP data in accordance with the sector-specific requirements of the applicable delegated act.
 
 publication:
+-----
 Provision of the DPP in accordance with the requirements of European harmonised standards as a REST endpoint, including mapping functionality of the links on the data carriers (e.g. QR code on the product) to the API. Provision in both machine-readable and human-readable form.
  
 repository - integration:
+-----
 The description of the sector-specific data points required is provided in so-called ‘dictionaries’, which are expected (but not yet confirmed as of December 2025) to be made available via a shared repository. This will allow the information in the respective DPP to be interpreted uniformly – in different languages!
 
 software - integration:
+-----
 A class library is provided which enables the integration of DPP data access into any application.
