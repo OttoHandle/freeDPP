@@ -12,6 +12,15 @@ Implementing shall be done according forthcoming CEN/CENELEC Standards
 Note:
 -----
 Project starts on April 1st 2026, when european standards for the digital product passport are published.
+Edit 26-06-20:
+In May 28th, 2026 six of the eight standards have been published and can be purchased (currently only in english language) here:
+https://standards.cencenelec.eu/ords/f?p=205:32:::::FSP_ORG_ID,FSP_LANG_ID:3342699,25&cs=1FC22FDE02FD51137ADC6BE8CA4E10E8F 
+
+The missing two standards, EN 18239 and EN 18246 are in formal vote process until mid of July, and should be published in early autumn.
+
+Therefore, current status of the freeDPP project covers protocols, storage, interoperability, API, serialisation and identification schemes as described in EN 18216, 18219, 18220, 18221, 18222 and 18223.
+
+We intend first commit in early July 2026 after current testing and documentation process.
 
 Info about ESPR:
 ----------------
@@ -20,9 +29,14 @@ Foodstuffs, animal feed, medicinal products, veterinary medicinal products, live
 
 functionalities:
 -----
+background database:
+-----
+RDBMS database template including test data to be provided here.
+normalized table structure allows adaption into different RDBMS Systems.
+
 dpp data maintenance:
 -----
-A web-based administration interface enables the import, recording and maintenance of product-specific DPP data in accordance with the sector-specific requirements of the applicable delegated act.
+A web-based administration interface enables the import, recording and maintenance of product-specific DPP data in accordance with the sector-specific requirements of the applicable delegated act. Currently this GUI-part is provided for free access, but not as open source.
 
 publication:
 -----
@@ -35,3 +49,22 @@ The description of the sector-specific data points required is provided in so-ca
 software - integration:
 -----
 A class library is provided which enables the integration of DPP data access into any application.
+
+technology stack:
+-----
+background database:
+-----
+system can be run on any kind of MS SQL-Server, including free SQL-Server Express.
+further, even open source RDBMS may be adapted later
+
+languages:
+-----
+back-end: .net core 8.0 / c#
+delivery: JSON (as required by standards)
+client side rendering to HTML 5.0 via javascript and CSS3
+
+security:
+-----
+security frameworks according EN 18239 and EN 18246 to be delivered after publication of these standards
+
+
