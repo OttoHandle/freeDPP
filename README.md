@@ -11,7 +11,7 @@ Implementing shall be done according forthcoming CEN/CENELEC Standards
 
 Note:
 -----
-Project starts on April 1st 2026, when european standards for the digital product passport are published.
+Project started on May 28th 2026, when european standards for the digital product passport were published.
 Edit 26-06-20:
 In May 28th, 2026 six of the eight standards have been published and can be purchased (currently only in english language) here:
 https://standards.cencenelec.eu/ords/f?p=205:32:::::FSP_ORG_ID,FSP_LANG_ID:3342699,25&cs=1FC22FDE02FD51137ADC6BE8CA4E10E8F 
