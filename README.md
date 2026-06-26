@@ -9,6 +9,14 @@ Implementing shall be done according forthcoming CEN/CENELEC Standards
      EN 18246 DPP – Data authentication, reliability and integrity   
      EN 18222 DPP - Application Programming Interfaces (APIs) for the product passport lifecycle management and searchability 
 
+Repositories:
+-----
+     freeDPPserver: contains the standard conform server system for DPP publication
+     freeDPPdatabase: the database definitions for the DPP backbone database
+     freeDPPgui: the webpage to manage the data behind the DPP
+
+     freeDPP: the first information page for overview on freeDPP, community and current developements. Not to be cloned.
+
 Note:
 -----
 Project started on May 28th 2026, when european standards for the digital product passport were published.
