@@ -12,10 +12,16 @@ Implementing shall be done according forthcoming CEN/CENELEC Standards
 Repositories:
 -----
      freeDPPserver: contains the standard conform server system for DPP publication
+     https://github.com/OttoHandle/freeDPPserver 
+     
      freeDPPdatabase: the database definitions for the DPP backbone database
+     https://github.com/OttoHandle/freeDPPdatabase 
+     
      freeDPPgui: the webpage to manage the data behind the DPP
+     https://github.com/OttoHandle/freeDPPgui 
 
      freeDPP: the first information page for overview on freeDPP, community and current developements. Not to be cloned.
+     https://github.com/OttoHandle/freeDPP 
 
 Note:
 -----
