@@ -3,11 +3,14 @@ Implementing shall be done according forthcoming CEN/CENELEC Standards
 
      EN 18219 DPP - Unique identifiers 
      EN 18220 DPP - Data carriers 
-     EN 18239 DPP - access rights management, information system security, and business confidentiality 
+     EN 18239 DPP - access rights management, information system security, and business confidentiality (pending)
      EN 18223 DPP - System interoperability EN 18216 DPP - Data exchange protocols 
      EN 18221 DPP - data storage, archiving, and data persistence 
-     EN 18246 DPP – Data authentication, reliability and integrity   
+     EN 18246 DPP – Data authentication, reliability and integrity   (pending)
      EN 18222 DPP - Application Programming Interfaces (APIs) for the product passport lifecycle management and searchability 
+
+- download standards here: 
+  https://standards.cencenelec.eu/ords/f?p=205:32:::::FSP_ORG_ID,FSP_LANG_ID:3342699,25&cs=1FC22FDE02FD51137ADC6BE8CA4E10E8F 
 
 public test environment:
 -----
