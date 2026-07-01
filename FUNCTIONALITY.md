@@ -26,6 +26,19 @@ https://insulation.freedpp.eu/01/4003973287696
 - use browser for human readable HTML rendering
 - use e.g. POSTMAN with HTTP-Accept=application/json (or link in HTML beside Picture) for JSON response.
 
-commit on Github:
+commit on gitHub:
 -----
 pending. Tests and finalisation of first version running.
+
+
+modules on gitHub:
+-----
+
+- freeDPPserver: contains the code for the open source DPP server system
+  https://github.com/OttoHandle/freeDPPserver
+  
+- freeDPPdatabase: SQL Database development for the backbone of freeDPPserver
+  https://github.com/OttoHandle/freeDPPdatabase
+  
+- freeDPPgui: implementation of a website to manage the database for freeDPP server
+  https://github.com/OttoHandle/freeDPPgui
